@@ -1,0 +1,13 @@
+[ODBC]
+
+DRIVER=SQL Server
+
+DATABASE=CMT_RD
+
+APP=Microsoft® Windows® Operating System
+
+Trusted_Connection=Yes
+
+SERVER=Igloodev\igloodev
+
+
