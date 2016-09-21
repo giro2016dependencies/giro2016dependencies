@@ -1,5 +1,10 @@
 # giro2016dependencies
 
+Hi, hope you found the talk useful. I plan to update the files in this project over time. 
+Please email giro2016dependencies@gmail.com if you'd like updates.
+
+
+#Legal
 All files in this project are copyright Edward Toman, 2016 and licenced under GPLv3: https://www.gnu.org/licenses/gpl-3.0.en.html
 
     These files are distributed in the hope that they will be useful,
